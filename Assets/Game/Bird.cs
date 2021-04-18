@@ -14,7 +14,7 @@ public class Bird : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        gc = GetComponet<GameController>();
+        gc = GetComponent<GameController>();
         nn = GetComponent<NeuralNetwork>();
         rb = GetComponent<Rigidbody2D>();
     }
