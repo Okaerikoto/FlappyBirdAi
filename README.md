@@ -17,3 +17,7 @@ Each bird has a score, which is proportional to the time it stayed alive. A bird
 The birds neural network is trained thanks to a genetic algorithm as follow. The first generation of 10 birds gets neural networks initialized with random weights. Once they are all dead, we generate a new generation of 10 birds, that inherits the weights of the bird of the previous generation who got the highest score, with random offsets on some weights. This process is repeated until one bird can play the game without dying.
 
 The demo can be seen in ./pictures/Demo.mp4
+
+## Note
+
+This work was inspired by this [page](https://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird/).
