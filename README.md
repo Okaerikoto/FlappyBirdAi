@@ -1,7 +1,7 @@
 # FlappyBirdAi
 A flappy bird game on Unity played by an AI using a simple neural network and a genetic algorithm
 
-![game capture](./pictures/Capture.PNG")
+![screen capture](/pictures/Capture.PNG)
 
 ## Requirements
 Tested on Unity 2018.3.0f2
